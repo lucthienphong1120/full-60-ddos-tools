@@ -13,5 +13,6 @@ Use Python to write a program that is capable of denial of service attacks. Caus
 ---
 
 ```
-Note that comply with network security rules when using, I will not be responsible for any illegal acts you cause !!!
+Note that comply with network security rules when using, 
+I will not be responsible for any illegal acts you cause !!!
 ```
